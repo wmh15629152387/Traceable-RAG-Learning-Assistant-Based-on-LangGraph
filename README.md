@@ -1,6 +1,3 @@
-
-
-````markdown
 # 基于 LangGraph 的可追溯 RAG 学习助手
 
 一个面向**个人学习资料**的智能问答系统，基于 **RAG（Retrieval-Augmented Generation）** 架构构建私有知识库，并通过 **LangGraph** 对问答流程进行可控编排，实现**答案可追溯、知识边界清晰、低误导风险**的学习助手。
@@ -145,11 +142,5 @@ Self-Check / 证据覆盖判断
 * 当前为个人应用项目 / 学习型项目
 * 支持根据不同 LLM 与 Embedding 模型进行灵活配置
 
----
 
-## 📄 License
-
-MIT License
-
-```
 
